@@ -1,0 +1,5 @@
+E:\SiteService\SiteClient\SiteClient\bin\Debug\SiteClient.exe
+E:\SiteService\SiteClient\SiteClient\bin\Debug\SiteClient.pdb
+E:\SiteService\SiteClient\SiteClient\obj\x86\Debug\SiteClient.csprojResolveAssemblyReference.cache
+E:\SiteService\SiteClient\SiteClient\obj\x86\Debug\SiteClient.exe
+E:\SiteService\SiteClient\SiteClient\obj\x86\Debug\SiteClient.pdb

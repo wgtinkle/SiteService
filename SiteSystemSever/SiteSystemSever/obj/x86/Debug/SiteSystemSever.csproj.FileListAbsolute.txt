@@ -1,0 +1,10 @@
+E:\SiteService\SiteSystemSever\SiteSystemSever\bin\Debug\SiteSystemSever.exe
+E:\SiteService\SiteSystemSever\SiteSystemSever\bin\Debug\SiteSystemSever.pdb
+E:\SiteService\SiteSystemSever\SiteSystemSever\obj\x86\Debug\SiteSystemSever.csprojResolveAssemblyReference.cache
+E:\SiteService\SiteSystemSever\SiteSystemSever\obj\x86\Debug\SiteSystemSever.Form1.resources
+E:\SiteService\SiteSystemSever\SiteSystemSever\obj\x86\Debug\SiteSystemSever.Properties.Resources.resources
+E:\SiteService\SiteSystemSever\SiteSystemSever\obj\x86\Debug\SiteSystemSever.csproj.GenerateResource.Cache
+E:\SiteService\SiteSystemSever\SiteSystemSever\obj\x86\Debug\SiteSystemSever.exe
+E:\SiteService\SiteSystemSever\SiteSystemSever\obj\x86\Debug\SiteSystemSever.pdb
+E:\SiteService\SiteSystemSever\SiteSystemSever\bin\Debug\SiteMsgService.dll
+E:\SiteService\SiteSystemSever\SiteSystemSever\bin\Debug\HtmlAgilityPack.dll

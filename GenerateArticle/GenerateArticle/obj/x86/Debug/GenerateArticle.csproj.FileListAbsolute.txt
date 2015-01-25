@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GenerateArticle\GenerateArticle\bin\Debug\GenerateArticle.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GenerateArticle\GenerateArticle\bin\Debug\GenerateArticle.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GenerateArticle\GenerateArticle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.pdb
+E:\SiteService\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.exe
+E:\SiteService\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.pdb
+E:\SiteService\GenerateArticle\GenerateArticle\bin\Debug\GenerateArticle.exe
+E:\SiteService\GenerateArticle\GenerateArticle\bin\Debug\GenerateArticle.pdb
+E:\SiteService\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SiteService\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.exe
+C:\Users\Administrator\Desktop\SiteService\GenerateArticle\GenerateArticle\obj\x86\Debug\GenerateArticle.pdb
+C:\Users\Administrator\Desktop\SiteService\GenerateArticle\GenerateArticle\bin\Debug\GenerateArticle.exe
+C:\Users\Administrator\Desktop\SiteService\GenerateArticle\GenerateArticle\bin\Debug\GenerateArticle.pdb
+C:\Users\Administrator\Desktop\SiteService\GenerateArticle\GenerateArticle\obj\x86\Debug\ResolveAssemblyReference.cache

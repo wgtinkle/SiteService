@@ -1,0 +1,6 @@
+E:\SiteService\SiteSystemSever\SiteMsgService\bin\Debug\SiteMsgService.dll.config
+E:\SiteService\SiteSystemSever\SiteMsgService\bin\Debug\SiteMsgService.dll
+E:\SiteService\SiteSystemSever\SiteMsgService\bin\Debug\SiteMsgService.pdb
+E:\SiteService\SiteSystemSever\SiteMsgService\obj\Debug\SiteMsgService.csprojResolveAssemblyReference.cache
+E:\SiteService\SiteSystemSever\SiteMsgService\obj\Debug\SiteMsgService.dll
+E:\SiteService\SiteSystemSever\SiteMsgService\obj\Debug\SiteMsgService.pdb
